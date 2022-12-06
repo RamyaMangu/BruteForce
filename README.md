@@ -18,7 +18,6 @@ External libraries
   - emot (https://pypi.org/project/emot/)
   - flashtext (https://pypi.org/project/flashtext/)
   
-
 Publicly available code
 -
   - GitHub for version control and coordinating with teammates
