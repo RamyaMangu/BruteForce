@@ -1,6 +1,6 @@
 # External libraries:
 
-nltk.corpus package (https://www.nltk.org/api/nltk.corpus.html)
+* nltk.corpus package (https://www.nltk.org/api/nltk.corpus.html)
 tweepy package (https://www.tweepy.org/)
 inflect (https://pypi.org/project/inflect/)
 keras package (https://keras.io/)
